@@ -10,7 +10,7 @@
 
 [![Opensource](https://img.shields.io/badge/Open%20Source-Yes-green)](#)
 
-**THE MAIN AUTHOR OF THIS CODE Cyberexit**
+**THE MAIN AUTHOR OF THIS CODE CYBEREXIT**
 
 #### REQUIREMENTS
 
