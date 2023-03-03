@@ -56,7 +56,7 @@ python IpTracker.py
 ```
 <div align="center">
 
-<b> GET US IN CLICK </b><br><br>
+<b> TOOL PASS = FB GROUP 👇 </b><br><br>
 
 <a href="https://github.com/cyberexit/">
 
